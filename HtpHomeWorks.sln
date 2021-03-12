@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{8005B77B-3425-491F-BC3D-45E27FEC2CA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskCollection", "HomeTaskCollection\HomeTaskCollection.csproj", "{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

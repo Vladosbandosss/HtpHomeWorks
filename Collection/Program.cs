@@ -110,7 +110,7 @@ namespace Collection
             }
             */
            
-           //int last = Convert.ToInt32(n.ToString().AsEnumerable().Last().ToString());
+           
             
             
             var list = new List<int> { 1, 44, 79, 5 };
@@ -128,7 +128,16 @@ namespace Collection
             var list2 = new List<int> { 1, 3, 6, 5, 4, 1, 3, 5, 6 ,4,2,3,3,3};
             list2.Sort();
             
-            var res2 = new Dictionary<int, int>();
+            for (int i = 0; i < 10; i++)
+            {
+             var  test = list2.Where(x => x == i).ToArray();
+                int answer = test.Count();
+                Console.WriteLine("Цифра " + i + " встречается " + answer + " раз");
+
+            }
+            
+            
+
          
             
 
