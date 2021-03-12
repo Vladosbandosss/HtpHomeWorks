@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtpHomeWorks", "HtpHomeWork
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Collection.csproj", "{4235FE79-94A0-4CBC-913B-E2AF2952C3CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{8005B77B-3425-491F-BC3D-45E27FEC2CA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4235FE79-94A0-4CBC-913B-E2AF2952C3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4235FE79-94A0-4CBC-913B-E2AF2952C3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4235FE79-94A0-4CBC-913B-E2AF2952C3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8005B77B-3425-491F-BC3D-45E27FEC2CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
