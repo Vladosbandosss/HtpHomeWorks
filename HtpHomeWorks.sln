@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTaskCollection", "HomeTaskCollection\HomeTaskCollection.csproj", "{2E47614B-DB8C-40A6-AB98-12F4A37DFFCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask8", "HomeTask8\HomeTask8.csproj", "{C5DD6557-4234-4071-9E2A-E87251298B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeTask8", "HomeTask8\HomeTask8.csproj", "{C5DD6557-4234-4071-9E2A-E87251298B75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{A6A566B3-B320-46AC-BE4F-C4779B5E117A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarDerevo", "BinarDerevo\BinarDerevo.csproj", "{F56E0D99-BEA4-4E30-A44A-85146FD8E887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigHomeWork", "BigHomeWork\BigHomeWork.csproj", "{9A973874-8DC9-4B87-8AAA-656AD484B8D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{C5DD6557-4234-4071-9E2A-E87251298B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5DD6557-4234-4071-9E2A-E87251298B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5DD6557-4234-4071-9E2A-E87251298B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A566B3-B320-46AC-BE4F-C4779B5E117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A566B3-B320-46AC-BE4F-C4779B5E117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A566B3-B320-46AC-BE4F-C4779B5E117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A566B3-B320-46AC-BE4F-C4779B5E117A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56E0D99-BEA4-4E30-A44A-85146FD8E887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56E0D99-BEA4-4E30-A44A-85146FD8E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56E0D99-BEA4-4E30-A44A-85146FD8E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56E0D99-BEA4-4E30-A44A-85146FD8E887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A973874-8DC9-4B87-8AAA-656AD484B8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A973874-8DC9-4B87-8AAA-656AD484B8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A973874-8DC9-4B87-8AAA-656AD484B8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A973874-8DC9-4B87-8AAA-656AD484B8D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
