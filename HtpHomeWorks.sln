@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegat", "delegat\delegat.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegandevents", "delegandevents\delegandevents.csproj", "{FE4E189D-F9F2-4817-9C58-E6FE07A7F861}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iskluchenia", "iskluchenia\iskluchenia.csproj", "{CC309884-55BC-4305-806E-66CE18A905FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iskluchenia", "iskluchenia\iskluchenia.csproj", "{CC309884-55BC-4305-806E-66CE18A905FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControl", "TestControl\TestControl.csproj", "{1AE7A31C-6EA9-4AF7-82A7-178C324EBFA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{CC309884-55BC-4305-806E-66CE18A905FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC309884-55BC-4305-806E-66CE18A905FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC309884-55BC-4305-806E-66CE18A905FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE7A31C-6EA9-4AF7-82A7-178C324EBFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE7A31C-6EA9-4AF7-82A7-178C324EBFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE7A31C-6EA9-4AF7-82A7-178C324EBFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE7A31C-6EA9-4AF7-82A7-178C324EBFA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
