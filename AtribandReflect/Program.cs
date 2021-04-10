@@ -29,13 +29,18 @@ namespace AtribandReflect
                 {
                     Console.WriteLine(prop.PropertyType + " " + prop.Name + " " + prop.Attributes);//вывел свойства кот отмеч атрибутом
                 }
-                
-               
-              //  foreach (var a in attrs)
-              //  {
-               //     Console.WriteLine(a);
-               // }
-                
+                Console.WriteLine();
+                string slovo = "zaglavnaya";
+
+                slovo = char.ToUpper(slovo[0]) + slovo.Substring(1);
+                Console.WriteLine(slovo);
+
+
+                //  foreach (var a in attrs)
+                //  {
+                //     Console.WriteLine(a);
+                // }
+
             }
             
         }
