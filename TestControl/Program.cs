@@ -8,6 +8,7 @@ namespace TestControl
     {
         static void Main(string[] args)
         {
+            /*
             //Task1 числа фибоначи
             Fibonacci(7);
             //Task2 обратный порядок
@@ -89,6 +90,8 @@ namespace TestControl
                 Console.Write(b + " ");
             }
             Console.WriteLine();
+             */
+            Console.WriteLine("кр");
 
            
         }
