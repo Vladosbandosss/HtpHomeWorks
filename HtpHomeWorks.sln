@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestControl", "TestControl\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtribandReflect", "AtribandReflect\AtribandReflect.csproj", "{BE114E7D-8CCA-4C33-84E6-C5C659A61F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilePot", "PhilePot\PhilePot.csproj", "{CC4953DF-51CB-4688-9954-A6B7E73FDBE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhilePot", "PhilePot\PhilePot.csproj", "{CC4953DF-51CB-4688-9954-A6B7E73FDBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTask", "SimpleTask\SimpleTask.csproj", "{570ACB8F-9A49-40F9-8C1F-B5EA2C6D334B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{CC4953DF-51CB-4688-9954-A6B7E73FDBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4953DF-51CB-4688-9954-A6B7E73FDBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4953DF-51CB-4688-9954-A6B7E73FDBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570ACB8F-9A49-40F9-8C1F-B5EA2C6D334B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570ACB8F-9A49-40F9-8C1F-B5EA2C6D334B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570ACB8F-9A49-40F9-8C1F-B5EA2C6D334B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570ACB8F-9A49-40F9-8C1F-B5EA2C6D334B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
